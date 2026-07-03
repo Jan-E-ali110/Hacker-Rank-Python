@@ -21,6 +21,7 @@ Here is the log of the problems I have cracked so far:
 | 11 | [Nested Lists](https://www.hackerrank.com/challenges/nested-list/problem) | Nested Lists, `set()`, `sorted()`, Filtering | Easy/Medium |
 | 12 | [HackerRank: Python Lists](https://www.hackerrank.com/challenges/nested-list/problem) | Command Parsing, `.split()`, Type Casting, List Mutation (`.sort()`, `.insert()`) | Easy | ✅ Cracked |
 | 13 | [HackerRank: Introduction to Sets](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem) | Function Arguments, `set()` for Duplicates, `sum()` & `len()` | Easy | ✅ Cracked |
+| 13.1 | [HackerRank: Tuples](https://www.hackerrank.com/challenges/python-tuples/problem) | Python Tuples, Immutability, `hash()` Function, Python 2 vs 3 Environments | Easy | ✅ Milestone Cleared |
 | 14 | *Coming Tomorrow...* | ⏳ Waiting for the next challenge | - | 🕒 Pending |
 
 ---
